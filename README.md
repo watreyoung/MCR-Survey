@@ -3,6 +3,12 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 ## Overview
 
+### Workflow
+
+![MCR-workflow](./MCR-workflow.png)
+
+### Taxonomy
+
 ![The taxonomy of MCR](./MCR-Survey.png)
 
 ## Catalogue
