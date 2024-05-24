@@ -917,29 +917,41 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 #### Comparsion Experiments
 
+![Comparison Experiments](./pic/Understanding/Understanding-Comparison-Experiments.png)
+
+##### Review Strategy
+
 2016
 
 [Comparing pre commit reviews and post commit reviews using process simulation](https://dl.acm.org/doi/abs/10.1145/2904354.2904362)
-
-2017
-
-[Evaluating how static analysis tools can reduce code review effort](https://ieeexplore.ieee.org/abstract/document/8103456/)
 
 2018
 
 [Comparing sequential and parallel code review techniques for formative feedback](https://dl.acm.org/doi/abs/10.1145/3160489.3160498)
 
-[A survey on source code review using machine learning](https://ieeexplore.ieee.org/abstract/document/8614720/)
+##### Static Analysis Tools
+
+2017
+
+[Evaluating how static analysis tools can reduce code review effort](https://ieeexplore.ieee.org/abstract/document/8103456/)
 
 2023
 
 [Can static analysis tools find more defects? a qualitative study of design rule violations found by code review](https://link.springer.com/article/10.1007/s10664-022-10232-4)
 
-[Generation-based code review automation: how far are weƒ](https://ieeexplore.ieee.org/abstract/document/10174115/)
+##### Automated Code Review Tools
+
+2018
+
+[A survey on source code review using machine learning](https://ieeexplore.ieee.org/abstract/document/8614720/)
+
+2023
+
+[Generation-based code review automation: how far are we?](https://ieeexplore.ieee.org/abstract/document/10174115/)
 
 #### User Study (Questionnaires for Practitioners)
 
-![](./pic/Understanding/Understanding-Questionnaires-for-Practitioners.png)
+![Questionnaires-for-Practitioners](./pic/Understanding/Understanding-Questionnaires-for-Practitioners.png)
 
 ##### Developers' perspective
 
