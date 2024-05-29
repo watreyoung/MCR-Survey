@@ -1,5 +1,5 @@
-# Survey of Modern Code Review (MCR) 
-In this repository, we collected papers related to modern code review (MCR) from Jan. 2013 to Feb. 2024. We propose a taxonomy of MCR tasks, aiming to assist developers and researchers to gain a better understanding of MCR. More detailed information can be found in our paper "Understanding and Enhancing Modern Code Review: Progresses, Challenges and Opportunities".
+# A Survey on Modern Code Review (MCR) 
+In this repository, we collected papers related to modern code review (MCR) from Jan. 2013 to Feb. 2024. We propose a taxonomy of MCR tasks, aiming to assist developers and researchers to gain a better understanding of MCR. More detailed information can be found in our paper ["A Survey on Modern Code Review: Progresses, Challenges and Opportunities"](https://arxiv.org/abs/2405.18216).
 
 ## Overview
 
@@ -509,7 +509,7 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 ### Understanding Study
 
-![Understanding-Study-1](./pic/Understanding-Study-1.png)
+![Understanding-Studies-1](./pic/Understanding-Studies-1.png)
 
 
 
