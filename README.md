@@ -1043,3 +1043,16 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 ![Understanding Studies](./Understanding-Studies.png)
 
+## Cite
+
+If you find this work useful, please cite our paper:
+
+```
+@article{yang2024survey,
+  title={A Survey on Modern Code Review: Progresses, Challenges and Opportunities},
+  author={Yang, Zezhou and Gao, Cuiyun and Guo, Zhaoqiang and Li, Zhenhao and Liu, Kui and Xia, Xin and Zhou, Yuming},
+  journal={arXiv preprint arXiv:2405.18216},
+  year={2024}
+}
+```
+
