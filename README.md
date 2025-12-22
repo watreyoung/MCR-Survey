@@ -15,11 +15,12 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 ### Improvement Techniques
 
-<!-- ![Improvement-Techniques-1](./pic/Improvement-Techniques-1.png) -->
+![Improvement Techniques](./pic/Improvement-Techniques-1.png)
+
 
 #### Code Change Analysis
 
-<!-- ![Code Change Analysis](./pic/Improvement/Improvement-Code-Change-Analysis.png) -->
+![Code Change Analysis](./pic/Improvement/Code-Change-Analysis.png)
 
 ##### Change Decomposition
 
@@ -274,7 +275,7 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 #### Reviewer Recommendation
 
-<!-- ![Reviewer Recommendation](./pic/Improvement/Improvement-Reviewer-Recommendation.png) -->
+![Reviewer Recommendation](./pic/Improvement/Reviewer-Recommendation.png)
 
 ##### Technical Factors
 
@@ -400,6 +401,8 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 #### Review Comment Synthesis
 
+![Reviewer Comment Synthesis](./pic/Improvement/Review-Comment-Synthesis.png)
+
 * Retrieval-based methods
 
   2018
@@ -457,7 +460,7 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 #### Review Comment Analysis
 
-<!-- ![Review-Comments-Analysis](./pic/Improvement/Improvement-Review-Comments-Analysis.png) -->
+![Review-Comment-Analysis](./pic/Improvement/Review-Comment-Analysis.png)
 
 ##### Content and Intent Analysis
 
@@ -524,6 +527,8 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 #### Unified Automation Frameworks
 
+![Unified Automation Frameworks](./pic/Improvement/Unified-Automation-Frameworks.png)
+
 ##### Deep learning-based methods
 
 2022
@@ -583,16 +588,15 @@ In this repository, we collected papers related to modern code review (MCR) from
 [Multi-Agent LLM Collaboration for Adaptive Code Review, Debugging, and Security Analysis](https://ieeexplore.ieee.org/document/11135756)
 
 
-#### Summary
-
-<!-- ![The taxonomy of Improvement Techniques](./Improvement-Techniques.png) -->
-
 ### Understanding Study
 
-<!-- ![Understanding-Studies-1](./pic/Understanding-Studies-1.png) -->
+![Understanding-Studies-1](./pic/Understanding-Studies-1.png)
 
 
 #### Quality Assurance and Reliability 
+
+![Quality Assurance and Reliability](./pic/Understanding/Quality-Assurance-and-Reliability.png)
+
 
 ##### Defect and Risk Detection
 
@@ -751,6 +755,9 @@ In this repository, we collected papers related to modern code review (MCR) from
   [Enhancing Aerospace Software Quality with Automated Code Review](https://ieeexplore.ieee.org/document/11068615)
 
 #### Process Efficiency and Workflow Patterns
+
+![Process Efficiency and Workflow Patterns](./pic/Understanding/Process-Efficiency-and-Workflow-Patterns.png)
+
 
 [Modern Code Reviews—Survey of Literature and Practice](https://dl.acm.org/doi/10.1145/3585004)
 
@@ -944,6 +951,8 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 #### Human Factors and Social Interaction
 
+![Human Factors and Social Interaction](./pic/Understanding/Human-Factors-and-Social-Interaction.png)
+
 ##### Demographic and Social Influence
 
 2013
@@ -1134,6 +1143,8 @@ In this repository, we collected papers related to modern code review (MCR) from
 
 #### Evolution toward Human-AI Collaboration
 
+![Evolution toward Human-AI Collaboration](./pic/Understanding/Evolution-toward-Human-AI Collaboration.png)
+
 ##### AI Capabilities and Model Performance
 
 2023
@@ -1201,9 +1212,6 @@ In this repository, we collected papers related to modern code review (MCR) from
 [AI-Driven Continuous Integration: Automating Code Review and Deployment with LLMs](https://ieeexplore.ieee.org/document/11119365)
 
 
-#### Summary
-
-<!-- ![Understanding Studies](./Understanding-Studies.png) -->
 
 ## Cite
 
